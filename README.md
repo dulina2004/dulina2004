@@ -47,7 +47,7 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://dulina2004.github.io/dulina2004/github-snake-dark.svg" alt="Snake animation" />
+    <img src="https://github.com/dulina2004/dulina2004/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
