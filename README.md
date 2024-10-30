@@ -40,15 +40,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulina2004&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=FFFFFF&background=1F222E" alt="dulina2004" /></p>
 
+<p align="center">
+    <img src="https://github.com/dulina2004/dulina2004/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=dulina2004&theme=darkhub" alt="dulina2004" />
     </a>
 </p>
-<p align="center">
-    <img src="https://github.com/dulina2004/dulina2004/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
-
