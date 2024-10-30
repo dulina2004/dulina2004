@@ -46,7 +46,9 @@
         <img src="https://github-profile-trophy.vercel.app/?username=dulina2004&theme=darkhub" alt="dulina2004" />
     </a>
 </p>
-![snake gif](https://github.com/dulina2004/dulina2004/blob/output/github-snake-dark.svg)
+<p align="center">
+    <img src="https://dulina2004.github.io/dulina2004/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
