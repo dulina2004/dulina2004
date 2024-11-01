@@ -5,9 +5,26 @@
     <img src="https://komarev.com/ghpvc/?username=dulina2004&label=Profile%20views&color=0e75b6&style=flat" alt="dulina2004" />
 </p>
 
+---
+
+### 🔥 About Me
+
+-   🌱 I’m currently learning **Node.js, Angular, React, Spring Boot**.
 -   👨‍💻 All of my projects are available at [Portfolio](https://dulina2004.github.io/protfolio_0.5/)
 -   📝 I regularly write articles on [Medium](https://medium.com/@dulinagunasinghe)
 -   ⚡ Fun fact: **Debugging: being the detective in a crime movie where you are also the murderer. 🕵️‍♂️**
+
+---
+
+### 🎓 Education
+
+-   **University of Colombo**  
+    _Selected for the computer science Degree Program (Awaiting Intake)_
+
+-   **iCET Institute**  
+    _Learning Full-Stack Development (ICD Program)_
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
