@@ -51,28 +51,13 @@
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
 </p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: stretch;">
-    <div style="min-height: 195px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulina2004&show_icons=true&locale=en&layout=compact&theme=dark" 
-             alt="Top Languages" 
-             style="width: 100%; height: 195px; object-fit: contain;">
-    </div>
-    <div style="min-height: 195px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=dulina2004&show_icons=true&locale=en&theme=dark" 
-             alt="GitHub Stats" 
-             style="width: 100%; height: 195px; object-fit: contain;">
-    </div>
-    <div style="min-height: 195px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulina2004&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=FFFFFF&background=1F222E" 
-             alt="GitHub Streak" 
-             style="width: 100%; height: 195px; object-fit: contain;">
-    </div>
-    <div style="min-height: 195px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulina2004&theme=material_palenight" 
-             alt="Profile Details" 
-             style="width: 100%; height: 195px; object-fit: contain;">
-    </div>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulina2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="dulina2004" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulina2004&show_icons=true&locale=en&theme=dark" alt="dulina2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulina2004&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=FFFFFF&background=1F222E" alt="dulina2004" /></p>
+
+
 
 
 <p align="center">
