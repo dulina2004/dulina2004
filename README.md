@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
--   🌱 I’m currently learning **Node.js, Angular, React, Spring Boot**.
+-   🌱 I’m currently learning **Node.js, Angular, React, Spring Boot ,Flutter**.
 -   👨‍💻 All of my projects are available at [Portfolio](https://dulina2004.github.io/protfolio_0.5/)
 -   📝 I regularly write articles on [Medium](https://medium.com/@dulinagunasinghe)
 -   ⚡ Fun fact: **Debugging: being the detective in a crime movie where you are also the murderer. 🕵️‍♂️**
