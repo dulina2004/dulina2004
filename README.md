@@ -18,11 +18,11 @@
 
 ### 🎓 Education
 
--   **University of Colombo**  
-    _Selected for the computer science Degree Program (Awaiting Intake)_
+-   **University of Colombo School of Computing**  
+    _Computer Science_
 
 -   **iCET Institute**  
-    _Learning Full-Stack Development (ICD Program)_
+    _Full-Stack Development (ICD Program)_
 
 ---
 
